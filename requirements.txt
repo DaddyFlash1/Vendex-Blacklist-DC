@@ -1,0 +1,8 @@
+logging
+discord
+os
+os.path
+re
+asyncio
+aiohttp
+json
